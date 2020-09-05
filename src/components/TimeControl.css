@@ -1,0 +1,34 @@
+.controls-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  width: 120px;
+}
+
+.btn-type {
+  margin-bottom: 5px;
+}
+
+.control-btn {
+  background: none;
+  border: none;
+  outline: none;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin: 5px;
+}
+
+.minus-btn {
+  color: #ff0000;
+}
+
+.plus-btn {
+  color: #00c500;
+}
+
+.time-text {
+  font-size: 1.6rem;
+  font-weight: bold;
+}
